@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Sistema de Gestión Odontológica</title>
+    <title>Asignar Cita</title>
     <link rel="stylesheet" type="text/css" href="Vista/css/estilos.css">
 </head>
 
